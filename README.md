@@ -4,6 +4,7 @@
 Welcome to **Google Search Clone**, a frontend project that mimics the look and feel of the Google search page built using HTML5 and CSS!.
 
 Have a look at preview from:
+![image](https://github.com/22pt16/Googleclone/assets/131383251/874932d9-c74d-4b2b-84d2-bb053d4ec643)
 https://22pt16.github.io/Googleclone/
 
 ## 📋 Table of Contents
