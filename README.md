@@ -28,6 +28,7 @@ This project is one of my starting point for learning web development and can be
 - **Custom Logo:** Colorful Google-inspired logo using custom font.
 - **Footer:** Minimalistic footer with navigation links.
 - **Hover Effects:** Smooth transitions and zoom effects on hover.
+- **Effective Search:** The input from user is used to redirect it to "actual google search engine results page" onclicking "Enter" or "Search icon"
 
 ## 🚀 Usage
 
