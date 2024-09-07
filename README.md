@@ -53,8 +53,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 🙏 Acknowledgements
 
 - [Google Fonts](https://fonts.google.com/)
-- [Unsplash](https://unsplash.com/) for images
-- [CSS Tricks](https://css-tricks.com/) for inspiration
 
 ---
 
